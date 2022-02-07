@@ -10,17 +10,20 @@ view the latest version of this document at [github.com/sshikshu/resume](https:/
 
 ## Backend Devops at [Healofy](https://healofy.com) May 2018 -
 
-golang, koa - javascript/typescript (node)
+golang - fiber, koa - javascript/typescript (node)
 
 aws (cloudfront, lambda, ses, sns), gcp (bigquery, firestore, functions, kubernetes, cloud run, memorystore, vms)
 
 kafka, mongodb, postgres, puppeteer, redis
 
+nextjs/reactjs
+
 - Responsible for chat system (dashboards, elections, messaging, notifications)
 - Worked on notification systems
 - Built Image/Video compression system
 - Built Group (Bulk) Buying ecommerce system
-- Maintaining frontend systems (react, redux)
+- Developed main website (healofy.com) (nextjs)
+- Built the search system
 
 ## Full Stack Developer at [Automate.io](https://automate.io/app) Jun 2016 to Feb 2018
 
