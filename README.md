@@ -63,11 +63,11 @@ express - javascript(node)
 
 ## Technical Skills
 
-1. backend - node (express/koa), golang
-2. frontend - react (redux epics)
+1. backend - golang, node (express/koa)
+2. frontend - react
 
 <hr />
 
 - [github.com/sshikshu](https://github.com/sshikshu)
 - [github.com/nullorm](https://github.com/nullorm)
-- [gitlab.com/nullorm](https://gitlab.com)
+- [gitlab.com/nullorm](https://gitlab.com/nullorm)
