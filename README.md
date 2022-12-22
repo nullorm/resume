@@ -22,7 +22,7 @@ nextjs/reactjs
 - Worked on notification systems
 - Built Image/Video compression system
 - Built Group (Bulk) Buying ecommerce system
-- Developed main website (healofy.com) (nextjs)
+- Developed website (content.healofy.com) (nextjs)
 - Built the search system
 
 ## Full Stack Developer at [Automate.io](https://automate.io/app) Jun 2016 to Feb 2018
@@ -70,4 +70,3 @@ express - javascript(node)
 
 - [github.com/sshikshu](https://github.com/sshikshu)
 - [github.com/nullorm](https://github.com/nullorm)
-- [gitlab.com/nullorm](https://gitlab.com/nullorm)
