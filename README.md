@@ -2,7 +2,7 @@
 
 [shashwat.shikshu@gmail.com](mailto:shashwat.shikshu@gmail.com)
 
-[+91 9472482154](tel:+919472482154)
+[+91 9113487762](tel:+919113487762)
 
 view the latest version of this document at [github.com/sshikshu/resume](https://github.com/sshikshu/resume)
 
@@ -10,7 +10,7 @@ view the latest version of this document at [github.com/sshikshu/resume](https:/
 
 ## Backend Devops at [Healofy](https://healofy.com) May 2018 -
 
-golang - fiber, koa - javascript/typescript (node)
+golang - fiber, connectrpc, koa - javascript/typescript (node)
 
 aws (cloudfront, lambda, ses, sns), gcp (bigquery, firestore, functions, kubernetes, cloud run, memorystore, vms)
 
